@@ -17,4 +17,4 @@ pip install -r requirementsLINUX.txt
 
 # Preview
 <div align="center">
-    <img src="https://raw.githubusercontent.com/techplayz32/plutohook/main/license/preview.png>
+    <img src="https://github.com/techplayz32/plutohook/blob/main/license/preview.png>
