@@ -16,5 +16,4 @@ pip install -r requirementsLINUX.txt
 - Run file `plutohook.py` and enjoy your PlutoHook's experience! :3
 
 # Preview
-<div align="center">
-    <img src="https://github.com/techplayz32/plutohook/blob/main/license/preview.png>
+![preview](https://github.com/techplayz32/plutohook/assets/154914363/535e5ed1-314b-43cf-9ffc-8922ea32af1e)
